@@ -3,16 +3,11 @@
 """
 Created on Wed Oct 15 09:43 2023
 
-@author: Samuel L. Smallman
-Department of Computer Science
-Middle Tennessee State University
 Greedy Local search to find max value
 of the SoG function in d dimensions.
 
 Portions based on Python code provided by
-Scott P. Morton and Joshua L. Phillips
-Center for Computational Science
-Middle Tennessee State University
+Scott P. Morton and J. Phillips
 """
 import SumofGaussians as SG
 import numpy as np
