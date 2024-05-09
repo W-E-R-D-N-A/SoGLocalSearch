@@ -6,9 +6,8 @@ SumofGaussians.py
 Created on Tue Sep  3 21:21:15 2019
 
 @author: Scott P. Morton M.S.C.S.
-Middle Tn State University
 
-Portions based on C++ code provided by Dr. Joshua Lee Phillips MTSU
+Portions based on C++ code provided by Dr. J.L. Phillips
 Modifed by J.L.P - 2019-09-19 10:18:35
 Modifed by J.L.P - 2022-09-29 12:04:22
 """
